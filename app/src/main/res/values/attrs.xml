@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyTextView">
+        <!-- 文本 -->
+        <attr name="titleText" format="string"></attr>
+        <!-- 字体颜色 -->
+        <attr name="titleTextColor" format="color"></attr>
+        <!-- 字体大小 -->
+        <attr name="titleTextSize" format="dimension"></attr>
+    </declare-styleable>
+</resources>
